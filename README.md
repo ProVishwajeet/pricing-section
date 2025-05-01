@@ -15,7 +15,11 @@ A modern and responsive pricing section built with HTML and CSS.
 - `pricing-section.webp` - Project screenshot
 
 ## View Project
-[View on GitHub]([https://github.com/ProVishwajeet/pricing-section](https://provishwajeet.github.io/pricing-section/))
+## Live Demo
+
+👉 [View on GitHub Pages](https://provishwajeet.github.io/pricing-section/)  
+📂 [View Repository on GitHub](https://github.com/ProVishwajeet/pricing-section)
+
 
 ## Setup
 1. Clone the repository
